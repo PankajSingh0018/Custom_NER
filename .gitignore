@@ -1,0 +1,7 @@
+virt
+model-best
+model-last
+base_config.base_config
+config.cfg
+train.spacy
+Corona2.json
